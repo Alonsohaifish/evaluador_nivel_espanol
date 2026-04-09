@@ -72,25 +72,3 @@ Sugerencias: ['tenía']
 ```
 
 
-
-
-
-
-
-
-
-# Evaluador de nivel de Español (ES)
-
-## Descripción
-Este proyecto evalúa el nivel (A1-C1) de español del estudiante usando
--Preguntas de gramática de opción múltiple
--Corrección de la redacción con PLN
-
-## Características 
--Calificación automática de la gramática
--Corrección de la redacción con LanguageTool
--Clasificación del nivel de acuerdo al MCER
-
-## Instalación
-```bash
-pip install -r requirements.txt
