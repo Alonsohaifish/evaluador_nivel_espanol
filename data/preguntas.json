@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Tu ____ muchas cosas en el mercado",
+    "opciones": ["compras", "compro", "compramos"],
+    "correcta": 0,
+    "nivel": "A1",
+    "tema": "presente"
+  },
+  {
+    "id": 2,
+    "pregunta": "Ella trabaja mucho, ella está ____",
+    "opciones": ["cansado", "cansarse", "cansada"],
+    "correcta": 2,
+    "nivel": "A1",
+    "tema": "participio"
+  },
+  {
+    "id": 3,
+    "pregunta": "Él ____ en la mañana. Él trabaja en la noche.",
+    "opciones": ["duermo", "duerme", "dorme"],
+    "correcta": 1,
+    "nivel": "A1",
+    "tema": "presente"
+  },
+  {
+    "id": 4,
+    "pregunta": "Quiero ____ a México",
+    "opciones": ["viajar", "viajo", "viaja"],
+    "correcta": 0,
+    "nivel": "A1",
+    "tema": "infinitivo"
+  },
+  {
+    "id": 5,
+    "pregunta": "Ayer ____ compré comida a mi hijo.",
+    "opciones": ["le", "me", "te"],
+    "correcta": 0,
+    "nivel": "A2",
+    "tema": "objeto indirecto"
+  },
+  {
+    "id": 6,
+    "pregunta": "Cuando nosotros eramos niños, siempre ____ al cine.",
+    "opciones": ["íbamos", "fuimos", "ibas"],
+    "correcta": 0,
+    "nivel": "A2",
+    "tema": "copréterito"
+  },
+  {
+    "id": 7,
+    "pregunta": "Ahora estoy ____ para el examen",
+    "opciones": ["estudiado", "estudiar", "estudiando"],
+    "correcta": 2,
+    "nivel": "A2",
+    "tema": "gerundio"
+  },
+  {
+    "id": 8,
+    "pregunta": "Ella no ____ a la escuela la semana pasada.",
+    "opciones": ["venir", "vino", "vinó"],
+    "correcta": 1,
+    "nivel": "A2",
+    "tema": "pretérito"
+  },
+  {
+    "id": 9,
+    "pregunta": "____ la pluma, es mía.  ",
+    "opciones": ["date", "dame", "darme"],
+    "correcta": 1,
+    "nivel": "B1",
+    "tema": "imperativo"
+  },
+  {
+    "id": 10,
+    "pregunta": "Ojalá que ____ el examen.",
+    "opciones": ["apruebes", "aprobes", "aprueba"],
+    "correcta": 0,
+    "nivel": "B1",
+    "tema": "subjuntivo"
+  },
+  {
+    "id": 11,
+    "pregunta": "Mañana ustedes ____ a Estados Unidos",
+    "opciones": ["volaron", "volarán", "voldrán"],
+    "correcta": 1,
+    "nivel": "B1",
+    "tema": "futuro imperfecto"
+  },
+  {
+    "id": 12,
+    "pregunta": "Cuando llegamos, ya se ____ ido.",
+    "opciones": ["había", "habrá", "habría"],
+    "correcta": 0,
+    "nivel": "B1",
+    "tema": "pretérito pluscuamperfecto" 
+  },
+  {
+    "id": 13,
+    "pregunta": "Si tuviera dinero, ____ viajaría",
+    "opciones": ["yo", "me", "te"],
+    "correcta": 0,
+    "nivel": "B2",
+    "tema": "condicional"
+  },
+  {
+    "id": 14,
+    "pregunta": "Para el 2026, yo ya ____ concluido mi carrera",
+    "opciones": ["había", "habría", "habré"],
+    "correcta": 2,
+    "nivel": "B2",
+    "tema": "futuro perfecto"
+  },
+  {
+    "id": 15,
+    "pregunta": "Ana: Sal pronto. Ana dijo que tú ____ pronto",
+    "opciones": ["salieras", "salir", "saldrías"],
+    "correcta": 0,
+    "nivel": "B2",
+    "tema": "estilo indirecto"
+  },
+  {
+    "id": 16,
+    "pregunta": "Si tuviera dinero, ____ viajaría",
+    "opciones": ["yo", "me", "te"],
+    "correcta": 0,
+    "nivel": "B2",
+    "tema": "condicional"
+  },
+  {
+    "id": 17,
+    "pregunta": "Si me hubieras llamado a tiempo, nosotros ____ podido ir al cine",
+    "opciones": ["habríamos", "habrían", "haber"],
+    "correcta": 0,
+    "nivel": "C1",
+    "tema": "condicional compuesto"
+  },
+  {
+    "id": 18,
+    "pregunta": "Dudaban que él ____ a la fiesta",
+    "opciones": ["venga", "viniera", "venía"],
+    "correcta": 1,
+    "nivel": "C1",
+    "tema": "pretérito imperfecto de subjuntivo"
+  },
+  {
+    "id": 19,
+    "pregunta": "Sea como ____, yo iré a la fiesta",
+    "opciones": ["sea", "seré", "sé"],
+    "correcta": 0,
+    "nivel": "C1",
+    "tema": "subjuntivo"
+  },
+  {
+    "id": 20,
+    "pregunta": "Luis: quiero que tu comas fruta. Luis dijo que quería que ____ fruta",
+    "opciones": ["coma", "comía", "comiera"],
+    "correcta": 2,
+    "nivel": "C1",
+    "tema": "estilo indirecto"
+  }
+  ]
