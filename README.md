@@ -21,7 +21,7 @@ Este proyecto evalúa el nivel (A1–C1) de un estudiante utilizando:
 Clona el repositorio:
 
 ```bash
-[git clone https://github.com/Alonsohaifish/extraccion-palabras-clave-español.git]
+git clone https://github.com/Alonsohaifish/extraccion-palabras-clave-español.git
 cd corrector_gramatical_espanol
 ```
 Instala las dependencias:
