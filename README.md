@@ -21,7 +21,7 @@ Este proyecto evalúa el nivel (A1–C1) de un estudiante utilizando:
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/Alonsohaifish/extraccion-palabras-clave-español.git
+[git clone https://github.com/Alonsohaifish/extraccion-palabras-clave-español.git]
 cd corrector_gramatical_espanol
 ```
 Instala las dependencias:
@@ -31,21 +31,18 @@ pip install -r requirements.txt
 ```
 ## Estructura del proyecto
 evaluador_nivel_espanol/
-│
-├── data/
-│   └── preguntas.json
-│
-├── src/
-│   ├── __init__.py
-│   ├── grammar.py
-│   ├── writing.py
-│   ├── utils.py
-│   └── exam.py
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+data/
+  preguntas.json
+src/
+  init__.py
+  grammar.py
+  writing.py
+  utils.py
+  exam.py
+main.py
+requirements.txt
+README.md
+.gitignore
 
 
 ## Uso
@@ -75,25 +72,3 @@ Sugerencias: ['tenía']
 ```
 
 
-
-
-
-
-
-
-
-# Evaluador de nivel de Español (ES)
-
-## Descripción
-Este proyecto evalúa el nivel (A1-C1) de español del estudiante usando
--Preguntas de gramática de opción múltiple
--Corrección de la redacción con PLN
-
-## Características 
--Calificación automática de la gramática
--Corrección de la redacción con LanguageTool
--Clasificación del nivel de acuerdo al MCER
-
-## Instalación
-```bash
-pip install -r requirements.txt
