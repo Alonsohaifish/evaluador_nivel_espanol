@@ -29,21 +29,25 @@ Instala las dependencias:
 ```bash
 pip install -r requirements.txt
 ```
-## Estructura del proyecto
+### Estructura del proyecto 
+```text
 evaluador_nivel_espanol/
-data/
-  preguntas.json
-src/
-  init__.py
-  grammar.py
-  writing.py
-  utils.py
-  exam.py
-main.py
-requirements.txt
-README.md
-.gitignore
-
+│
+├── data/
+│   └── preguntas.json
+│
+├── src/
+│   ├── __init__.py
+│   ├── grammar.py
+│   ├── writing.py
+│   ├── utils.py
+│   └── exam.py
+│
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
 ## Uso
 
